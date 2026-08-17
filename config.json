@@ -1,0 +1,105 @@
+{
+  "prefix": "!",
+  "staff_role_id": 0,
+  "ticket_category_id": 1538888512760446976,
+  "ticket_log_channel_id": 0,
+  "welcome_channel_id": 1538889194745765979,
+  "autorole_id": 1538843079371522138,
+  "server_name": "Project 444",
+  "currency": "€",
+  "products": [
+    {
+    "name": "Disney+ NFA",
+    "price": "0.80",
+    "description": "Disney+ Non-Full Access account"
+  },
+  {
+    "name": "Chat GPT+",
+    "price": "6.50",
+    "description": "ChatGPT Plus account"
+  },
+  {
+    "name": "Netflix acc lifetime",
+    "price": "1.00",
+    "description": "Netflix account lifetime"
+  },
+  {
+    "name": "Netflix Premium FA lifetime",
+    "price": "3.50",
+    "description": "Netflix Premium Full Access lifetime account"
+  },
+  {
+    "name": "YouTube lifetime acc",
+    "price": "2.50",
+    "description": "YouTube lifetime account"
+  },
+  {
+    "name": "Cap Cut pro lifetime",
+    "price": "1.00",
+    "description": "CapCut Pro lifetime account"
+  },
+  {
+    "name": "UFC Lifetime acc",
+    "price": "1.00",
+    "description": "UFC Lifetime account"
+  },
+  {
+    "name": "Dazn acc many countries",
+    "price": "DM",
+    "description": "DAZN account for many countries"
+  },
+  {
+    "name": "Spotify lifetime acc",
+    "price": "3.50",
+    "description": "Family/student plan"
+  },
+  {
+    "name": "DuoLingo lifetime",
+    "price": "0.30",
+    "description": "Duolingo lifetime account"
+  },
+  {
+    "name": "HBO MAX LIFETIME ACC",
+    "price": "0.50",
+    "description": "HBO Max lifetime account"
+  },
+  {
+    "name": "Crunchyroll mega fan lifetime acc",
+    "price": "0.50",
+    "description": "Crunchyroll Mega Fan lifetime account"
+  },
+  {
+    "name": "NBA Lifetime",
+    "price": "1.00",
+    "description": "NBA Lifetime account"
+  },
+  {
+    "name": "Spotify Lifetime KEY",
+    "price": "DM",
+    "description": "Spotify Lifetime KEY"
+  },
+  {
+    "name": "Prime video lifetime",
+    "price": "1.80",
+    "description": "Amazon Prime Video lifetime account"
+  },
+  {
+    "name": "Claude AI acc PRO",
+    "price": "15.00",
+    "description": "Claude AI Pro account"
+  },
+  {
+    "name": "VPNS diafora",
+    "price": "DM",
+    "description": "Various VPNs"
+  },
+  {
+    "name": "14x1 server boosts",
+    "price": "4.50",
+    "description": "14x1 Discord server boosts"
+  }
+  ],
+  "payment_methods": [
+    "PayPal (Friends & Family)"
+  ]
+}
